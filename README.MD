@@ -4,11 +4,11 @@
 </div>
 
 <div align="center">
-  <a href="https://tfg-play-web.vercel.app/" target="_blank">
+  <a href="https://tfg-play-web.vercel.app/">
     Página web
   </a>
   <span>&nbsp;❖&nbsp;</span>
-  <a href="https://drive.google.com/file/d/1dOD629cpYewjJrCZTxDvenyss9KSqopf/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1dOD629cpYewjJrCZTxDvenyss9KSqopf/view">
     Video demostrativo
   </a>
 </div>
