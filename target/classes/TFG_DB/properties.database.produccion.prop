@@ -1,0 +1,4 @@
+# Conexión a SQLite
+db=sqlite
+driver = org.sqlite.JDBC
+dsn = jdbc:sqlite:Database
