@@ -1,5 +1,7 @@
 <div align="center">
+  <a href="https://tfg-play-web.vercel.app">
     <img src="./TFG/favicon.ico" width="150" height="150">
+  </a>
   <h1>TFGPlay</h1>
 </div>
 
