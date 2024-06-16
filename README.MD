@@ -42,7 +42,7 @@ Si simplemente quieres ejecutarlo desde el IDE. Deberás irte a la [ventana prin
 ## 📄 Autores
 
 - [Daniel López Galeano](https://github.com/DaniLopez02)
-- [Alejandro Navarro Carvalho](https://github.com/alexnavarro)
+- [Alejandro Navarro Carvalho](https://github.com/AlejandroNavarroCarvalho)
 - [Pablo Romero Agudo](https://github.com/PabloRomeroAgudo)
 
 ### ⚠️ Nota
